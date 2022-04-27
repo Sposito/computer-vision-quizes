@@ -1,1 +1,3 @@
 .idea/
+*.dng
+*.DS_Store
